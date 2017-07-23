@@ -1,0 +1,1 @@
+exports.check = require('./check');

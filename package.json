@@ -1,0 +1,12 @@
+{
+  "name": "flow-import",
+  "main": "src/index.js",
+  "bin": {
+    "flow2": "src/cli.js"
+  },
+  "dependencies": {
+    "estree-walker": "^0.5.0",
+    "flow-bin": "^0.50.0",
+    "flow-parser": "^0.50.0"
+  }
+}
